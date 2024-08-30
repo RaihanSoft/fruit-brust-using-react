@@ -1,12 +1,13 @@
 
-import './App.css'
+import Nav from './components/Nav/Nav'
 
 function App() {
 
 
   return (
     <div>
-      <h1>hello</h1>
+      <Nav></Nav>
+
     </div>
   )
 }
