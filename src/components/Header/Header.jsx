@@ -2,13 +2,13 @@ function Header() {
     return (
         <div>
 
-            <section className="w-11/12 mx-auto mt-5">
+            <section className="w-11/12 mx-auto mt-5 relative">
                 <div className="carousel w-full">
 
 
                     <div id="slide1" className="carousel-item relative w-full bg-[url(./assets/banner1.png)]">
 
-                        <div className="text-white mx-auto text-center pt-10 space-y-16  py-10">
+                        <div className="text-white mx-auto text-center pt-10 space-y-16  py-32">
                             <h1 className="text-6xl font-extrabold ">Exotic tastes at your <br />doorstep</h1>
                             <p>We supply highly quality organic products</p>
                             <div>
@@ -70,6 +70,40 @@ function Header() {
                     </div>
 
 
+
+                </div>
+
+
+
+                {/* header boxes  */}
+
+                <div className="flex gap-12 bg-white  shadow-lg rounded-xl w-10/12 mx-auto py-10 absolute -bottom-24 right-[110px] justify-center ">
+
+                    <div className="text-center">
+                        <div><img src="./assets/fruit1.png" alt="" /></div>
+                        <p className="font-bold">Strawberry</p>
+                    </div>
+
+                    <div className="text-center">
+                        <div><img src="./assets/fruit2.png" alt="" /></div>
+                        <p className="font-bold">Orange</p>
+                    </div>
+
+
+                    <div className="text-center">
+                        <div><img src="./assets/fruit3.png" alt="" /></div>
+                        <p className="font-bold">Mango</p>
+                    </div>
+
+                    <div className="text-center">
+                        <div><img src="./assets/fruit4.png" alt="" /></div>
+                        <p className="font-bold">Strawberry</p>
+                    </div>
+
+                    <div className="text-center">
+                        <div><img src="./assets/fruit5.png" alt="" /></div>
+                        <p className="font-bold">Mango</p>
+                    </div>
 
                 </div>
             </section>
