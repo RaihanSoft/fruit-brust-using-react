@@ -4,7 +4,7 @@ function Nav() {
     return (
         <div>
 
-            <section className="flex justify-between bg-[#F85559] w-11/12 mx-auto text-white rounded-3xl items-center px-5 py-3" >
+            <section className="flex justify-between bg-[#F85559] w-11/12 mx-auto text-white rounded-3xl items-center px-5 py-2" >
 
                 <div className="flex gap-10 hidden md:flex">
                     <a href="#">Home</a>
