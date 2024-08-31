@@ -6,7 +6,7 @@ function Header() {
                 <div className="carousel w-full">
 
 
-                    <div id="slide1" className="carousel-item relative w-full bg-[url(./assets/banner1.png)]">
+                    <div id="slide1" className="carousel-item relative w-full bg-[url(assets/banner1.png)]">
 
                         <div className="text-white mx-auto text-center pt-10 space-y-16  py-32">
                             <h1 className="text-6xl font-extrabold ">Exotic tastes at your <br />doorstep</h1>
@@ -25,7 +25,7 @@ function Header() {
                     </div>
 
 
-                    <div id="slide2" className="carousel-item relative w-full bg-[url(./assets/banner2.png)]">
+                    <div id="slide2" className="carousel-item relative w-full bg-[url(assets/banner2.png)]">
                         <div className="text-white mx-auto text-center pt-10 space-y-16 ">
                             <h1 className="text-6xl font-extrabold ">Exotic tastes at your <br />doorstep</h1>
                             <p>We supply highly quality organic products</p>
@@ -40,7 +40,7 @@ function Header() {
                     </div>
 
 
-                    <div id="slide3" className="carousel-item relative w-full bg-[url(./assets/banner3.png)]">
+                    <div id="slide3" className="carousel-item relative w-full bg-[url(assets/banner3.png)]">
                         <div className="text-white mx-auto text-center pt-10 space-y-16 ">
                             <h1 className="text-6xl font-extrabold ">Exotic tastes at your <br />doorstep</h1>
                             <p>We supply highly quality organic products</p>
@@ -55,7 +55,7 @@ function Header() {
                     </div>
 
 
-                    <div id="slide4" className="carousel-item relative w-full bg-[url(./assets/banner4.png)]">
+                    <div id="slide4" className="carousel-item relative w-full bg-[url(assets/banner4.png)]">
                         <div className="text-white mx-auto text-center pt-10 space-y-16 ">
                             <h1 className="text-6xl font-extrabold ">Exotic tastes at your <br />doorstep</h1>
                             <p>We supply highly quality organic products</p>
