@@ -77,7 +77,7 @@ function Header() {
 
                 {/* header boxes  */}
 
-                <div className="flex gap-12 bg-white  shadow-lg rounded-xl w-10/12 mx-auto py-10 absolute -bottom-24 right-[110px] justify-center ">
+                <div className="flex gap-10 bg-white  shadow-lg rounded-xl w-10/12 mx-auto py-10 absolute -bottom-24 right-[110px] justify-center ">
 
                     <div className="text-center">
                         <div><img src="./assets/fruit1.png" alt="" /></div>
