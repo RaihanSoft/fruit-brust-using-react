@@ -2,4 +2,4 @@
 
 Ripo : https://github.com/RaihanSoft/fruit-brust-using-react
 <br/>
-Vercel: 
+Vercel: https://fruit-brust-using-react.vercel.app/
