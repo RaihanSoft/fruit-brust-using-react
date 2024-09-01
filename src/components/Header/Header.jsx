@@ -8,8 +8,8 @@ function Header() {
 
                     <div id="slide1" className="carousel-item relative w-full bg-[url(../assets/banner1.png)]">
 
-                        <div className="text-white mx-auto text-center pt-10 space-y-16  py-32">
-                            <h1 className="text-6xl font-extrabold ">Exotic tastes at your <br />doorstep</h1>
+                        <div className="text-white mx-auto text-center pt-10 space-y-16 py-2 sm:py-4 md:py-8 lg:py-12 xl:py-32">
+                            <h1 className="text-3xl  md:text-4xl lg:text-5xl xl:text-6xl font-extrabold ">Exotic tastes at your <br />doorstep</h1>
                             <p>We supply highly quality organic products</p>
                             <div>
                                 <button className="btn text-white bg-error border-none ">Shop Now</button>
@@ -26,8 +26,8 @@ function Header() {
 
 
                     <div id="slide2" className="carousel-item relative w-full bg-[url(../assets/banner2.png)]">
-                        <div className="text-white mx-auto text-center pt-10 space-y-16 ">
-                            <h1 className="text-6xl font-extrabold ">Exotic tastes at your <br />doorstep</h1>
+                        <div className="text-white mx-auto text-center pt-10 space-y-16 py-2 sm:py-4 md:py-8 lg:py-12 xl:py-32">
+                            <h1 className="text-3xl  md:text-4xl lg:text-5xl xl:text-6xl font-extrabold ">Exotic tastes at your <br />doorstep</h1>
                             <p>We supply highly quality organic products</p>
                             <div>
                                 <button className="btn text-white bg-error border-none ">Shop Now</button>
@@ -41,8 +41,8 @@ function Header() {
 
 
                     <div id="slide3" className="carousel-item relative w-full bg-[url(../assets/banner3.png)]">
-                        <div className="text-white mx-auto text-center pt-10 space-y-16 ">
-                            <h1 className="text-6xl font-extrabold ">Exotic tastes at your <br />doorstep</h1>
+                        <div className="text-white mx-auto text-center pt-10 space-y-16 py-2 sm:py-4 md:py-8 lg:py-12 xl:py-32">
+                            <h1 className="text-3xl  md:text-4xl lg:text-5xl xl:text-6xl font-extrabold ">Exotic tastes at your <br />doorstep</h1>
                             <p>We supply highly quality organic products</p>
                             <div>
                                 <button className="btn text-white bg-error border-none ">Shop Now</button>
@@ -56,8 +56,8 @@ function Header() {
 
 
                     <div id="slide4" className="carousel-item relative w-full bg-[url(../assets/banner4.png)]">
-                        <div className="text-white mx-auto text-center pt-10 space-y-16 ">
-                            <h1 className="text-6xl font-extrabold ">Exotic tastes at your <br />doorstep</h1>
+                        <div className="text-white mx-auto text-center pt-5 space-y-16 py-2 sm:py-4 md:py-8 lg:py-12 xl:py-32">
+                            <h1 className="text-3xl  md:text-4xl lg:text-5xl xl:text-6xl font-extrabold ">Exotic tastes at your <br />doorstep</h1>
                             <p>We supply highly quality organic products</p>
                             <div>
                                 <button className="btn text-white bg-error border-none ">Shop Now</button>
@@ -77,7 +77,7 @@ function Header() {
 
                 {/* header boxes  */}
 
-                <div className="flex gap-10 bg-white  shadow-lg rounded-xl w-10/12 mx-auto py-10 absolute -bottom-24 right-[110px] justify-center ">
+                <div className="flex gap-10 bg-white hidden xl:flex  shadow-lg rounded-xl w-10/12 mx-auto py-10 absolute -bottom-24 right-[110px] justify-center ">
 
                     <div className="text-center">
                         <div><img src="./assets/fruit1.png" alt="" /></div>

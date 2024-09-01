@@ -4,7 +4,7 @@ function Nav() {
     return (
         <div>
 
-            <section className="flex justify-between bg-[#F85559] w-11/12 mx-auto text-white rounded-3xl items-center px-5 py-2" >
+            <section className="flex justify-between bg-[#F85559] w-11/12 mx-auto text-white rounded-3xl items-center px-5 py-1" >
 
                 <div className="flex gap-10 hidden md:flex">
                     <a href="#">Home</a>
@@ -13,11 +13,11 @@ function Nav() {
                     <a href="#">All Fruits</a>
                 </div>
 
-                <div className="flex items-center gap-5 ">
+                <div className="flex items-center gap-3">
                     <div>
                         <img src="./assets/logo.png" alt="" />
                     </div>
-                    <h2 className="text-3xl font-bold">Fruit Burst</h2>
+                    <h2 className=" text-xl md:text-2xl font-bold">Fruit Burst</h2>
 
                 </div>
 
@@ -25,6 +25,11 @@ function Nav() {
                     <input type="text" placeholder="Search here" className="rounded-s-3xl p-2" />
 
                 </div>
+
+
+                <i class="ri-menu-line md:hidden "></i>
+
+
 
 
             </section>

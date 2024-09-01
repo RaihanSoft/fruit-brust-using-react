@@ -142,8 +142,10 @@ function Shop() {
                 </div>
 
 
-
             </section>
+            <div className="flex justify-center  items-center  mt-10 ">
+                <button className="btn btn-error text-white">Shop All</button>
+            </div>
         </div>
     )
 }
