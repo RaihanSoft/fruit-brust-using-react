@@ -5,6 +5,7 @@ import Header from './components/Header/Header'
 import Deal from './components/Deal/Deal'
 import Shop from './components/Shop/Shop'
 import Team from './components/Team/Team'
+import WhyUs from './components/WhyUs/WhyUs'
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
       <Deal></Deal>
       <Shop></Shop>
       <Team></Team>
+      <WhyUs></WhyUs>
 
     </div>
   )

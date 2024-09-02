@@ -1,9 +1,7 @@
-import React from 'react'
-
 function Team() {
     return (
         <div>
-            <section className='w-11/12 mx-auto mt-10 border-4 py-16  bg-[url(./assets/team.png)] text-white bg-gradient-to-t from-black to-gray-400  '>
+            <section className='w-11/12 mx-auto mt-10 border-4 py-16  bg-[url(./assets/team.png)] text-white  rounded-xl'>
 
                 {/* team descripton  */}
                 <div className='text-center'>
