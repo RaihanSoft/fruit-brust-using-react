@@ -12,7 +12,7 @@ function WhyUs() {
 
 
             {/* content section  */}
-            <section className="grid grid-cols-3">
+            <section className="grid grid-cols-1 md:grid-cols-3 justify-items-center">
                 {/* one  */}
                 <div className="space-y-10">
                     <div className="flex gap-2 p-4">
